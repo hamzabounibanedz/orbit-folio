@@ -12,26 +12,26 @@ module.exports = {
         "dark-2": "#121212",
         primary: {
           // blue
-          low: "#f6f7f8",
+          low: "#f7f4ff",
           "low-medium": "#939da8",
           "low-high": "#8894a1",
           "medium-low": "#627180",
-          medium: "#122640",
-          high: "#122640",
+          medium: "#332e4f",
+          high: "#332e4f",
         },
         secondary: {
           // coral
           low: "#80cdd6",
-          "low-high": "#38a1ad",
-          "medium-low": "#2A7D86",
-          medium: "#38a1ad",
+          "low-high": "#725bb1",
+          "medium-low": "#65509d",
+          medium: "#725bb1",
           high: "#164145",
           "high-high": "#0b2023",
         },
         tertiary: {
           // teal
           low: "#f49fa4",
-          medium: "#ed616b",
+          medium: "#885cb7",
           high: "#770d14",
         },
       },
